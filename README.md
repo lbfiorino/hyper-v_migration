@@ -1,7 +1,7 @@
-# hyper-v_migration
+# Hyper-V VM Migration
 
 ## CentOS
-sources:  
+Sources:  
 https://mangolassi.it/topic/8351/updating-the-linux-boot-image-before-migrating-from-vmware-to-hyper-v/10  
 https://forums.centos.org/viewtopic.php?t=61699  
 
