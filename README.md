@@ -1,9 +1,11 @@
 # hyper-v_migration
 
 ## CentOS
+sources:  
+https://mangolassi.it/topic/8351/updating-the-linux-boot-image-before-migrating-from-vmware-to-hyper-v/10  
+https://forums.centos.org/viewtopic.php?t=61699  
 
 Antes de migrar, instalar os drivers do hyper-v
-
 ```bash
 
 # CentOS 5 regenerate initrd for Hyper-V
